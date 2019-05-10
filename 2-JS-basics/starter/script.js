@@ -50,8 +50,7 @@ console.log(firstName + ' ' + lastName);
 console.log (lastName);
 
 
-
-
+console.log("I love kevin");
 
 
 
